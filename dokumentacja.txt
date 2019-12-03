@@ -1,0 +1,13 @@
+Intrukcja obslugi:
+1) Uruchamiamy aplikacje za pomoca klasy DemoApplication.
+2) Po uruchomieniu projektu mozemy za pomoca przegladarki dostac sie do endpointa.
+
+Zapytanie:
+localhost:8080/
+
+Po wejsciu na strone pojawi sie pole tekstowe w ktore mozemy wpisac:
+imie, nazwisko lub imie oraz nazwisko pracownika Politechniki Lodzkiej ktorego poszukujemy.
+
+Nastepnie jesli taki pracownik istnieje, pojawi nam sie lista znalezionych pracownikow.
+Po nacisnieciu przycisku pobierz vCard rozpocznie sie pobieranie pliku vCard, dzieki ktoremu bedziemy mogli dodac pracownika do naszej listy kontaktow.
+
